@@ -1,0 +1,6 @@
+D:\Mphasis\c#_exercise\13th_sept\Hands-on\GAC_Common_Option\bin\Debug\GAC_Common_Option.dll
+D:\Mphasis\c#_exercise\13th_sept\Hands-on\GAC_Common_Option\bin\Debug\GAC_Common_Option.pdb
+D:\Mphasis\c#_exercise\13th_sept\Hands-on\GAC_Common_Option\obj\Debug\GAC_Common_Option.csproj.AssemblyReference.cache
+D:\Mphasis\c#_exercise\13th_sept\Hands-on\GAC_Common_Option\obj\Debug\GAC_Common_Option.csproj.CoreCompileInputs.cache
+D:\Mphasis\c#_exercise\13th_sept\Hands-on\GAC_Common_Option\obj\Debug\GAC_Common_Option.dll
+D:\Mphasis\c#_exercise\13th_sept\Hands-on\GAC_Common_Option\obj\Debug\GAC_Common_Option.pdb
