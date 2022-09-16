@@ -1,0 +1,6 @@
+D:\Mphasis\c#_exercise\14th_sept_Hands-on\Hands-on\CustomerUser\bin\Debug\CustomerUser.dll
+D:\Mphasis\c#_exercise\14th_sept_Hands-on\Hands-on\CustomerUser\bin\Debug\CustomerUser.pdb
+D:\Mphasis\c#_exercise\14th_sept_Hands-on\Hands-on\CustomerUser\obj\Debug\CustomerUser.csproj.AssemblyReference.cache
+D:\Mphasis\c#_exercise\14th_sept_Hands-on\Hands-on\CustomerUser\obj\Debug\CustomerUser.csproj.CoreCompileInputs.cache
+D:\Mphasis\c#_exercise\14th_sept_Hands-on\Hands-on\CustomerUser\obj\Debug\CustomerUser.dll
+D:\Mphasis\c#_exercise\14th_sept_Hands-on\Hands-on\CustomerUser\obj\Debug\CustomerUser.pdb
