@@ -1,0 +1,102 @@
+https://www.microsoft.com/en-in/download/details.aspx?id=42299-- 1st Link
+
+Server=localhost\SQLEXPRESS;Database=master;Trusted_Connection=True;
+
+
+Introduction to MS-SQL Server
+-----------------------------
+SQL Server--- database
+RDBMS---Relational database management system.
+It is a Microsoft product, versions starting from 2005,2008,2012,2014,2016 etc
+Editions:
+Express----- Learning purpose--- 30 days trial pack
+Enterprise----- purchase required
+------->Run as an administrator<-------
+Express:
+To work with MS SQL SERVER
+1)SQL Server Management Studio--- allow/help/prompt you to connect to SQL Server
+2)SQL Server------server--- multiple databases
+1)SQL Server works with Windows authentication, sql server authentication and mixed authentication.
+Logged into windows OS-----Select Windows Authentication----recommended for learning purpose(use windows userid & password)
+Sql server authentication----(default username: sa/default password: sa)
+you can customize your userid/password
+Mixed Authentication---- windows userid+password & sql server userid + password
+from Sulakshana Deore to All Participants:
+1) Database engine------ SS Database engine----working with multiple databases
+2) Reporting Services---- SSRS
+3) Analysis Services---- SSAS
+4) Integration Services---- SSIS 
+****************************************************************************************
+Architecture of MS SQL Server
+---------------------------------
+Client -Server
+Whenever u want to connect to the server-----
+Services.msc----(Instance)SQL express/MSSQL server
+client Server Architecture:
+server takes request, processes the request & replies to the client with the processed data.
+Major 3 components
+1) Protocol engine: Shared Memory,TCP/IP,Named Pipes
+2) Relational engine: CMD Parser,Optimiser,Query Executor
+3) Storage engine:File Types, Buffer Manage,Access Methods, Plan Cache, Transaction Manager and
+Data Parsing: Buffer Cache and Data Storage.
+---------------------------------------------------------------------
+When the server & client are same computer/machine-- Shared MemoryIntroduction to MS-SQL Server
+-----------------------------
+SQL Server--- database
+RDBMS---Relational database management system.
+It is a Microsoft product, versions starting from 2005,2008,2012,2014,2016 etc
+Editions:
+Express----- Learning purpose--- 30 days trial pack
+Enterprise----- purchase required
+------->Run as an administrator<-------
+Express:
+To work with MS SQL SERVER
+1)SQL Server Management Studio--- allow/help/prompt you to connect to SQL Server
+2)SQL Server------server--- multiple databases
+1)SQL Server works with Windows authentication, sql server authentication and mixed authentication.
+Logged into windows OS-----Select Windows Authentication----recommended for learning purpose(use windows userid & password)
+Sql server authentication----(default username: sa/default password: sa)
+you can customize your userid/password
+Mixed Authentication---- windows userid+password & sql server userid + password
+from Sulakshana Deore to All Participants:
+1) Database engine------ SS Database engine----working with multiple databases
+2) Reporting Services---- SSRS
+3) Analysis Services---- SSAS
+4) Integration Services---- SSIS 
+****************************************************************************************
+Architecture of MS SQL Server
+---------------------------------
+Client -Server
+Whenever u want to connect to the server-----
+Services.msc----(Instance)SQL express/MSSQL server
+client Server Architecture:
+server takes request, processes the request & replies to the client with the processed data.
+Major 3 components
+1) Protocol engine: Shared Memory,TCP/IP,Named Pipes
+2) Relational engine: CMD Parser,Optimiser,Query Executor
+3) Storage engine:File Types, Buffer Manage,Access Methods, Plan Cache, Transaction Manager and
+Data Parsing: Buffer Cache and Data Storage.
+---------------------------------------------------------------------
+When the server & client are same computer/machine-- Shared Memory
+
+
+
+problems--
+1) create a database Shopping
+2) Create tables for the following
+a) create table customer having custid,custname,city,state
+b) create table products having prodid,prodname,unitprice,UnitOfMeasurement,QtyinStock
+c) Create a table sales_header
+invno,invdate,invamt,disPercent
+d) create a table sales_detail
+invno,custid,prodid,qtysold
+d) create primary key for custid,prodid,invno in the sales_header table.
+e) Create foreign key of invno in the sales_detail table.
+3) alter the sales_detail to apply a foreign key to custid and prodid.
+4) Drop a column qtySold.
+5) Add a column Qty.
+6) rename qty to Quantity(InNos)
+
+
+https://www.codeproject.com/Articles/76153/Six-Important-NET-Concepts-Stack-Heap-Value-Types
+For c# memory management...
