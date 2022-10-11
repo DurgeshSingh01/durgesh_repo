@@ -1,0 +1,6 @@
+D:\Mphasis\ADO.net and entity framework\Adoday2-crudopr\Crudopr\BusinessLogicLayerLibrary\bin\Debug\BusinessLogicLayerLibrary.dll
+D:\Mphasis\ADO.net and entity framework\Adoday2-crudopr\Crudopr\BusinessLogicLayerLibrary\bin\Debug\BusinessLogicLayerLibrary.pdb
+D:\Mphasis\ADO.net and entity framework\Adoday2-crudopr\Crudopr\BusinessLogicLayerLibrary\obj\Debug\BusinessLogicLayerLibrary.csproj.AssemblyReference.cache
+D:\Mphasis\ADO.net and entity framework\Adoday2-crudopr\Crudopr\BusinessLogicLayerLibrary\obj\Debug\BusinessLogicLayerLibrary.csproj.CoreCompileInputs.cache
+D:\Mphasis\ADO.net and entity framework\Adoday2-crudopr\Crudopr\BusinessLogicLayerLibrary\obj\Debug\BusinessLogicLayerLibrary.dll
+D:\Mphasis\ADO.net and entity framework\Adoday2-crudopr\Crudopr\BusinessLogicLayerLibrary\obj\Debug\BusinessLogicLayerLibrary.pdb
