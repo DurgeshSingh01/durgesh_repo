@@ -1,0 +1,6 @@
+D:\Mphasis\specflow\CustomerOrderService\CustomerOrderService\bin\Debug\CustomerOrderService.dll
+D:\Mphasis\specflow\CustomerOrderService\CustomerOrderService\bin\Debug\CustomerOrderService.pdb
+D:\Mphasis\specflow\CustomerOrderService\CustomerOrderService\obj\Debug\CustomerOrderService.csproj.AssemblyReference.cache
+D:\Mphasis\specflow\CustomerOrderService\CustomerOrderService\obj\Debug\CustomerOrderService.csproj.CoreCompileInputs.cache
+D:\Mphasis\specflow\CustomerOrderService\CustomerOrderService\obj\Debug\CustomerOrderService.dll
+D:\Mphasis\specflow\CustomerOrderService\CustomerOrderService\obj\Debug\CustomerOrderService.pdb
