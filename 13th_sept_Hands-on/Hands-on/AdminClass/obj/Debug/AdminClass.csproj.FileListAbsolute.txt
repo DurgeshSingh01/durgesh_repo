@@ -1,6 +1,0 @@
-D:\Mphasis\c#_exercise\13th_sept\Hands-on\AdminClass\bin\Debug\AdminClass.dll
-D:\Mphasis\c#_exercise\13th_sept\Hands-on\AdminClass\bin\Debug\AdminClass.pdb
-D:\Mphasis\c#_exercise\13th_sept\Hands-on\AdminClass\obj\Debug\AdminClass.csproj.AssemblyReference.cache
-D:\Mphasis\c#_exercise\13th_sept\Hands-on\AdminClass\obj\Debug\AdminClass.csproj.CoreCompileInputs.cache
-D:\Mphasis\c#_exercise\13th_sept\Hands-on\AdminClass\obj\Debug\AdminClass.dll
-D:\Mphasis\c#_exercise\13th_sept\Hands-on\AdminClass\obj\Debug\AdminClass.pdb

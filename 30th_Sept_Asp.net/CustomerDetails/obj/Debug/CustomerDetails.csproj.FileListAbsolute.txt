@@ -1,6 +1,0 @@
-D:\Mphasis\Asp.Net-started at - 29th sept\hands-on-30thsept\contol_statemangement\CustomerDetails\bin\Debug\CustomerDetails.dll
-D:\Mphasis\Asp.Net-started at - 29th sept\hands-on-30thsept\contol_statemangement\CustomerDetails\bin\Debug\CustomerDetails.pdb
-D:\Mphasis\Asp.Net-started at - 29th sept\hands-on-30thsept\contol_statemangement\CustomerDetails\obj\Debug\CustomerDetails.csproj.AssemblyReference.cache
-D:\Mphasis\Asp.Net-started at - 29th sept\hands-on-30thsept\contol_statemangement\CustomerDetails\obj\Debug\CustomerDetails.csproj.CoreCompileInputs.cache
-D:\Mphasis\Asp.Net-started at - 29th sept\hands-on-30thsept\contol_statemangement\CustomerDetails\obj\Debug\CustomerDetails.dll
-D:\Mphasis\Asp.Net-started at - 29th sept\hands-on-30thsept\contol_statemangement\CustomerDetails\obj\Debug\CustomerDetails.pdb

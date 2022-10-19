@@ -1,6 +1,0 @@
-D:\Mphasis\c#_exercise\13th_sept\Hands-on\UserClass\bin\Debug\UserClass.dll
-D:\Mphasis\c#_exercise\13th_sept\Hands-on\UserClass\bin\Debug\UserClass.pdb
-D:\Mphasis\c#_exercise\13th_sept\Hands-on\UserClass\obj\Debug\UserClass.csproj.AssemblyReference.cache
-D:\Mphasis\c#_exercise\13th_sept\Hands-on\UserClass\obj\Debug\UserClass.csproj.CoreCompileInputs.cache
-D:\Mphasis\c#_exercise\13th_sept\Hands-on\UserClass\obj\Debug\UserClass.dll
-D:\Mphasis\c#_exercise\13th_sept\Hands-on\UserClass\obj\Debug\UserClass.pdb
